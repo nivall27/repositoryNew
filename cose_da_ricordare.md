@@ -1,6 +1,11 @@
 sh: comando per eseguire shell script
 
 
+
+
+
+commandi per lavorare con una repository
+
 git clone: scaricare la repository sul tuo pc
 
 git add . : aggiungere tutti i file all push
