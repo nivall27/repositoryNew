@@ -1,3 +1,3 @@
 git add . 
-git commit -m "fourt push"
+git commit -m "normal push"
 git push
